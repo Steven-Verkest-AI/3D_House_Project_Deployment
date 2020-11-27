@@ -19,9 +19,9 @@ This project was a collaboratin between Wim & Steven
 In this project the goal is to deploy the FINAL_CODE.IPYNB file into a Flask web application, deployed on Heroku.
 
 ### Approach
+Connecting to an API to get lat& lon coordinates, so you can find the right tif file to search the address in, then cut out the information about the house.
+Then plot it.
 
-- Build Keras CNN for emotion recognition with transfer learning using pretrained MobileNetV2
-- Trying to detect faces and emotions with deepFace
 
 
 ### Possible Improvements
@@ -34,12 +34,6 @@ In this project the goal is to deploy the FINAL_CODE.IPYNB file into a Flask web
 
 ### To use
 
-Plot house of given address.
-
-```
-FINAL_CODE.ipynb
-```
-
-
+Run the Flask app
 
 
