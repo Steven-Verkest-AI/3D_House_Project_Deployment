@@ -75,7 +75,7 @@ psycopg2==2.8.5
 pyacrcloud==1.0.1
 pycodestyle==2.6.0
 pyflakes==2.2.0
-Pygments==2.6.1
+Pygments==2.7.4
 PyHamcrest==2.0.2
 pyjsparser==2.7.1
 pyodbc==4.0.30
